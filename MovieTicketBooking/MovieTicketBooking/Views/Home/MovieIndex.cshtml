@@ -1,0 +1,62 @@
+﻿@model IEnumerable<MovieTicketBooking.Models.MovieDetailsViewModels>
+
+@{
+    ViewBag.Title = "MovieIndex";
+}
+
+<h2>MovieIndex</h2>
+
+@using (Html.BeginForm("MovieIndex", "Home", FormMethod.Get))
+{
+    <p style="padding:7px 300px">
+        Genre: @Html.DropDownList("movieGenre", "All")
+        Movie Name: @Html.TextBox("SearchString")
+        <input type="submit" value="Filter" />
+    </p>
+}
+
+
+<table class="table">
+    <tr>
+        <th>
+            @Html.DisplayNameFor(model => model.Name)
+        </th>
+        <th>
+            @Html.DisplayNameFor(model => model.Genre)
+        </th>
+        <th>
+            @Html.DisplayNameFor(model => model.DateOfTime)
+        </th>
+        <th>
+            @Html.DisplayNameFor(model => model.price)
+        </th>
+        <th>
+            @Html.DisplayNameFor(model => model.MoviePicture)
+        </th>
+        <th></th>
+    </tr>
+
+@foreach (var item in Model) {
+    <tr>
+        <td>
+            @Html.DisplayFor(modelItem => item.Name)
+        </td>
+        <td>
+            @Html.DisplayFor(modelItem => item.Genre)
+        </td>
+        <td>
+            @Html.DisplayFor(modelItem => item.DateOfTime)
+        </td>
+        <td>
+            @Html.DisplayFor(modelItem => item.price)
+        </td>
+        <td>
+            <img src="@Url.Content(item.MoviePicture)" alt="Image" height="50" width="100" />
+        </td>
+        <td>
+            @Html.ActionLink("BookNow", "BookNow", new { id = item.ID })
+        </td>
+    </tr>
+}
+
+</table>

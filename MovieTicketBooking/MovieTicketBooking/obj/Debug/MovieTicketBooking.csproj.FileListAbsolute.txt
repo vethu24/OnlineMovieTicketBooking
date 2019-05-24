@@ -1,0 +1,244 @@
+C:\Users\Vethushan\Desktop\IT15113214\MovieTicketBooking\MovieTicketBooking\bin\ApplicationInsights.config
+C:\Users\Vethushan\Desktop\IT15113214\MovieTicketBooking\MovieTicketBooking\bin\roslyn\csc.exe
+C:\Users\Vethushan\Desktop\IT15113214\MovieTicketBooking\MovieTicketBooking\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\Vethushan\Desktop\IT15113214\MovieTicketBooking\MovieTicketBooking\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Vethushan\Desktop\IT15113214\MovieTicketBooking\MovieTicketBooking\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\Vethushan\Desktop\IT15113214\MovieTicketBooking\MovieTicketBooking\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\Vethushan\Desktop\IT15113214\MovieTicketBooking\MovieTicketBooking\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\Vethushan\Desktop\IT15113214\MovieTicketBooking\MovieTicketBooking\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\Vethushan\Desktop\IT15113214\MovieTicketBooking\MovieTicketBooking\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\Vethushan\Desktop\IT15113214\MovieTicketBooking\MovieTicketBooking\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\Vethushan\Desktop\IT15113214\MovieTicketBooking\MovieTicketBooking\bin\roslyn\vbc.exe
+C:\Users\Vethushan\Desktop\IT15113214\MovieTicketBooking\MovieTicketBooking\bin\roslyn\VBCSCompiler.exe
+C:\Users\Vethushan\Desktop\IT15113214\MovieTicketBooking\MovieTicketBooking\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\Vethushan\Desktop\IT15113214\MovieTicketBooking\MovieTicketBooking\bin\MovieTicketBooking.dll.config
+C:\Users\Vethushan\Desktop\IT15113214\MovieTicketBooking\MovieTicketBooking\bin\MovieTicketBooking.dll
+C:\Users\Vethushan\Desktop\IT15113214\MovieTicketBooking\MovieTicketBooking\bin\MovieTicketBooking.pdb
+C:\Users\Vethushan\Desktop\IT15113214\MovieTicketBooking\MovieTicketBooking\bin\Antlr3.Runtime.dll
+C:\Users\Vethushan\Desktop\IT15113214\MovieTicketBooking\MovieTicketBooking\bin\EntityFramework.dll
+C:\Users\Vethushan\Desktop\IT15113214\MovieTicketBooking\MovieTicketBooking\bin\EntityFramework.SqlServer.dll
+C:\Users\Vethushan\Desktop\IT15113214\MovieTicketBooking\MovieTicketBooking\bin\jose-jwt.dll
+C:\Users\Vethushan\Desktop\IT15113214\MovieTicketBooking\MovieTicketBooking\bin\Microsoft.AI.Agent.Intercept.dll
+C:\Users\Vethushan\Desktop\IT15113214\MovieTicketBooking\MovieTicketBooking\bin\Microsoft.AI.DependencyCollector.dll
+C:\Users\Vethushan\Desktop\IT15113214\MovieTicketBooking\MovieTicketBooking\bin\Microsoft.AI.PerfCounterCollector.dll
+C:\Users\Vethushan\Desktop\IT15113214\MovieTicketBooking\MovieTicketBooking\bin\Microsoft.AI.ServerTelemetryChannel.dll
+C:\Users\Vethushan\Desktop\IT15113214\MovieTicketBooking\MovieTicketBooking\bin\Microsoft.AI.Web.dll
+C:\Users\Vethushan\Desktop\IT15113214\MovieTicketBooking\MovieTicketBooking\bin\Microsoft.AI.WindowsServer.dll
+C:\Users\Vethushan\Desktop\IT15113214\MovieTicketBooking\MovieTicketBooking\bin\Microsoft.ApplicationInsights.dll
+C:\Users\Vethushan\Desktop\IT15113214\MovieTicketBooking\MovieTicketBooking\bin\Microsoft.AspNet.Identity.Core.dll
+C:\Users\Vethushan\Desktop\IT15113214\MovieTicketBooking\MovieTicketBooking\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+C:\Users\Vethushan\Desktop\IT15113214\MovieTicketBooking\MovieTicketBooking\bin\Microsoft.AspNet.Identity.Owin.dll
+C:\Users\Vethushan\Desktop\IT15113214\MovieTicketBooking\MovieTicketBooking\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\Vethushan\Desktop\IT15113214\MovieTicketBooking\MovieTicketBooking\bin\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\Vethushan\Desktop\IT15113214\MovieTicketBooking\MovieTicketBooking\bin\Microsoft.Extensions.Configuration.dll
+C:\Users\Vethushan\Desktop\IT15113214\MovieTicketBooking\MovieTicketBooking\bin\Microsoft.Extensions.Configuration.FileExtensions.dll
+C:\Users\Vethushan\Desktop\IT15113214\MovieTicketBooking\MovieTicketBooking\bin\Microsoft.Extensions.Configuration.Json.dll
+C:\Users\Vethushan\Desktop\IT15113214\MovieTicketBooking\MovieTicketBooking\bin\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\Vethushan\Desktop\IT15113214\MovieTicketBooking\MovieTicketBooking\bin\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\Vethushan\Desktop\IT15113214\MovieTicketBooking\MovieTicketBooking\bin\Microsoft.Extensions.FileProviders.Abstractions.dll
+C:\Users\Vethushan\Desktop\IT15113214\MovieTicketBooking\MovieTicketBooking\bin\Microsoft.Extensions.FileProviders.Physical.dll
+C:\Users\Vethushan\Desktop\IT15113214\MovieTicketBooking\MovieTicketBooking\bin\Microsoft.Extensions.FileSystemGlobbing.dll
+C:\Users\Vethushan\Desktop\IT15113214\MovieTicketBooking\MovieTicketBooking\bin\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\Vethushan\Desktop\IT15113214\MovieTicketBooking\MovieTicketBooking\bin\Microsoft.Extensions.Logging.Console.dll
+C:\Users\Vethushan\Desktop\IT15113214\MovieTicketBooking\MovieTicketBooking\bin\Microsoft.Extensions.Logging.dll
+C:\Users\Vethushan\Desktop\IT15113214\MovieTicketBooking\MovieTicketBooking\bin\Microsoft.Extensions.Primitives.dll
+C:\Users\Vethushan\Desktop\IT15113214\MovieTicketBooking\MovieTicketBooking\bin\Microsoft.Owin.dll
+C:\Users\Vethushan\Desktop\IT15113214\MovieTicketBooking\MovieTicketBooking\bin\Microsoft.Owin.Host.SystemWeb.dll
+C:\Users\Vethushan\Desktop\IT15113214\MovieTicketBooking\MovieTicketBooking\bin\Microsoft.Owin.Security.Cookies.dll
+C:\Users\Vethushan\Desktop\IT15113214\MovieTicketBooking\MovieTicketBooking\bin\Microsoft.Owin.Security.dll
+C:\Users\Vethushan\Desktop\IT15113214\MovieTicketBooking\MovieTicketBooking\bin\Microsoft.Owin.Security.Facebook.dll
+C:\Users\Vethushan\Desktop\IT15113214\MovieTicketBooking\MovieTicketBooking\bin\Microsoft.Owin.Security.Google.dll
+C:\Users\Vethushan\Desktop\IT15113214\MovieTicketBooking\MovieTicketBooking\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+C:\Users\Vethushan\Desktop\IT15113214\MovieTicketBooking\MovieTicketBooking\bin\Microsoft.Owin.Security.OAuth.dll
+C:\Users\Vethushan\Desktop\IT15113214\MovieTicketBooking\MovieTicketBooking\bin\Microsoft.Owin.Security.Twitter.dll
+C:\Users\Vethushan\Desktop\IT15113214\MovieTicketBooking\MovieTicketBooking\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\Vethushan\Desktop\IT15113214\MovieTicketBooking\MovieTicketBooking\bin\Newtonsoft.Json.dll
+C:\Users\Vethushan\Desktop\IT15113214\MovieTicketBooking\MovieTicketBooking\bin\Nexmo.Api.dll
+C:\Users\Vethushan\Desktop\IT15113214\MovieTicketBooking\MovieTicketBooking\bin\Owin.dll
+C:\Users\Vethushan\Desktop\IT15113214\MovieTicketBooking\MovieTicketBooking\bin\System.Net.Http.Formatting.dll
+C:\Users\Vethushan\Desktop\IT15113214\MovieTicketBooking\MovieTicketBooking\bin\System.Runtime.InteropServices.RuntimeInformation.dll
+C:\Users\Vethushan\Desktop\IT15113214\MovieTicketBooking\MovieTicketBooking\bin\System.Web.Helpers.dll
+C:\Users\Vethushan\Desktop\IT15113214\MovieTicketBooking\MovieTicketBooking\bin\System.Web.Http.dll
+C:\Users\Vethushan\Desktop\IT15113214\MovieTicketBooking\MovieTicketBooking\bin\System.Web.Http.WebHost.dll
+C:\Users\Vethushan\Desktop\IT15113214\MovieTicketBooking\MovieTicketBooking\bin\System.Web.Mvc.dll
+C:\Users\Vethushan\Desktop\IT15113214\MovieTicketBooking\MovieTicketBooking\bin\System.Web.Optimization.dll
+C:\Users\Vethushan\Desktop\IT15113214\MovieTicketBooking\MovieTicketBooking\bin\System.Web.Razor.dll
+C:\Users\Vethushan\Desktop\IT15113214\MovieTicketBooking\MovieTicketBooking\bin\System.Web.WebPages.Deployment.dll
+C:\Users\Vethushan\Desktop\IT15113214\MovieTicketBooking\MovieTicketBooking\bin\System.Web.WebPages.dll
+C:\Users\Vethushan\Desktop\IT15113214\MovieTicketBooking\MovieTicketBooking\bin\System.Web.WebPages.Razor.dll
+C:\Users\Vethushan\Desktop\IT15113214\MovieTicketBooking\MovieTicketBooking\bin\WebGrease.dll
+C:\Users\Vethushan\Desktop\IT15113214\MovieTicketBooking\MovieTicketBooking\bin\Microsoft.AI.DependencyCollector.xml
+C:\Users\Vethushan\Desktop\IT15113214\MovieTicketBooking\MovieTicketBooking\bin\Microsoft.AI.ServerTelemetryChannel.xml
+C:\Users\Vethushan\Desktop\IT15113214\MovieTicketBooking\MovieTicketBooking\bin\Microsoft.AI.Web.xml
+C:\Users\Vethushan\Desktop\IT15113214\MovieTicketBooking\MovieTicketBooking\bin\Microsoft.AI.WindowsServer.xml
+C:\Users\Vethushan\Desktop\IT15113214\MovieTicketBooking\MovieTicketBooking\bin\Microsoft.ApplicationInsights.xml
+C:\Users\Vethushan\Desktop\IT15113214\MovieTicketBooking\MovieTicketBooking\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\Vethushan\Desktop\IT15113214\MovieTicketBooking\MovieTicketBooking\bin\Microsoft.Extensions.Configuration.xml
+C:\Users\Vethushan\Desktop\IT15113214\MovieTicketBooking\MovieTicketBooking\bin\Microsoft.Extensions.Configuration.Abstractions.xml
+C:\Users\Vethushan\Desktop\IT15113214\MovieTicketBooking\MovieTicketBooking\bin\Microsoft.Extensions.Configuration.FileExtensions.xml
+C:\Users\Vethushan\Desktop\IT15113214\MovieTicketBooking\MovieTicketBooking\bin\Microsoft.Extensions.Configuration.Json.xml
+C:\Users\Vethushan\Desktop\IT15113214\MovieTicketBooking\MovieTicketBooking\bin\Microsoft.Extensions.DependencyInjection.xml
+C:\Users\Vethushan\Desktop\IT15113214\MovieTicketBooking\MovieTicketBooking\bin\Microsoft.Extensions.DependencyInjection.Abstractions.xml
+C:\Users\Vethushan\Desktop\IT15113214\MovieTicketBooking\MovieTicketBooking\bin\Microsoft.Extensions.FileProviders.Abstractions.xml
+C:\Users\Vethushan\Desktop\IT15113214\MovieTicketBooking\MovieTicketBooking\bin\Microsoft.Extensions.FileProviders.Physical.xml
+C:\Users\Vethushan\Desktop\IT15113214\MovieTicketBooking\MovieTicketBooking\bin\Microsoft.Extensions.FileSystemGlobbing.xml
+C:\Users\Vethushan\Desktop\IT15113214\MovieTicketBooking\MovieTicketBooking\bin\Microsoft.Extensions.Logging.xml
+C:\Users\Vethushan\Desktop\IT15113214\MovieTicketBooking\MovieTicketBooking\bin\Microsoft.Extensions.Logging.Abstractions.xml
+C:\Users\Vethushan\Desktop\IT15113214\MovieTicketBooking\MovieTicketBooking\bin\Microsoft.Extensions.Logging.Console.xml
+C:\Users\Vethushan\Desktop\IT15113214\MovieTicketBooking\MovieTicketBooking\bin\Microsoft.Extensions.Primitives.xml
+C:\Users\Vethushan\Desktop\IT15113214\MovieTicketBooking\MovieTicketBooking\bin\Newtonsoft.Json.xml
+C:\Users\Vethushan\Desktop\IT15113214\MovieTicketBooking\MovieTicketBooking\bin\System.Web.Helpers.xml
+C:\Users\Vethushan\Desktop\IT15113214\MovieTicketBooking\MovieTicketBooking\bin\System.Web.Mvc.xml
+C:\Users\Vethushan\Desktop\IT15113214\MovieTicketBooking\MovieTicketBooking\bin\System.Web.Optimization.xml
+C:\Users\Vethushan\Desktop\IT15113214\MovieTicketBooking\MovieTicketBooking\bin\System.Web.Razor.xml
+C:\Users\Vethushan\Desktop\IT15113214\MovieTicketBooking\MovieTicketBooking\bin\System.Web.WebPages.xml
+C:\Users\Vethushan\Desktop\IT15113214\MovieTicketBooking\MovieTicketBooking\bin\System.Web.WebPages.Deployment.xml
+C:\Users\Vethushan\Desktop\IT15113214\MovieTicketBooking\MovieTicketBooking\bin\System.Web.WebPages.Razor.xml
+C:\Users\Vethushan\Desktop\IT15113214\MovieTicketBooking\MovieTicketBooking\bin\Antlr3.Runtime.pdb
+C:\Users\Vethushan\Desktop\IT15113214\MovieTicketBooking\MovieTicketBooking\bin\System.Net.Http.Formatting.xml
+C:\Users\Vethushan\Desktop\IT15113214\MovieTicketBooking\MovieTicketBooking\bin\System.Web.Http.xml
+C:\Users\Vethushan\Desktop\IT15113214\MovieTicketBooking\MovieTicketBooking\bin\System.Web.Http.WebHost.xml
+C:\Users\Vethushan\Desktop\IT15113214\MovieTicketBooking\MovieTicketBooking\bin\EntityFramework.xml
+C:\Users\Vethushan\Desktop\IT15113214\MovieTicketBooking\MovieTicketBooking\bin\EntityFramework.SqlServer.xml
+C:\Users\Vethushan\Desktop\IT15113214\MovieTicketBooking\MovieTicketBooking\bin\Microsoft.AspNet.Identity.Core.xml
+C:\Users\Vethushan\Desktop\IT15113214\MovieTicketBooking\MovieTicketBooking\bin\Microsoft.AspNet.Identity.Owin.xml
+C:\Users\Vethushan\Desktop\IT15113214\MovieTicketBooking\MovieTicketBooking\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+C:\Users\Vethushan\Desktop\IT15113214\MovieTicketBooking\MovieTicketBooking\bin\Microsoft.Owin.xml
+C:\Users\Vethushan\Desktop\IT15113214\MovieTicketBooking\MovieTicketBooking\bin\Microsoft.Owin.Host.SystemWeb.xml
+C:\Users\Vethushan\Desktop\IT15113214\MovieTicketBooking\MovieTicketBooking\bin\Microsoft.Owin.Security.xml
+C:\Users\Vethushan\Desktop\IT15113214\MovieTicketBooking\MovieTicketBooking\bin\Microsoft.Owin.Security.Facebook.xml
+C:\Users\Vethushan\Desktop\IT15113214\MovieTicketBooking\MovieTicketBooking\bin\Microsoft.Owin.Security.Cookies.xml
+C:\Users\Vethushan\Desktop\IT15113214\MovieTicketBooking\MovieTicketBooking\bin\Microsoft.Owin.Security.OAuth.xml
+C:\Users\Vethushan\Desktop\IT15113214\MovieTicketBooking\MovieTicketBooking\bin\Microsoft.Owin.Security.Google.xml
+C:\Users\Vethushan\Desktop\IT15113214\MovieTicketBooking\MovieTicketBooking\bin\Microsoft.Owin.Security.Twitter.xml
+C:\Users\Vethushan\Desktop\IT15113214\MovieTicketBooking\MovieTicketBooking\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+C:\Users\Vethushan\Desktop\IT15113214\MovieTicketBooking\MovieTicketBooking\obj\Debug\MovieTicketBooking.Migrations.InitialCreate.resources
+C:\Users\Vethushan\Desktop\IT15113214\MovieTicketBooking\MovieTicketBooking\obj\Debug\MovieTicketBooking.csproj.GenerateResource.Cache
+C:\Users\Vethushan\Desktop\IT15113214\MovieTicketBooking\MovieTicketBooking\obj\Debug\MovieTicketBooking.dll
+C:\Users\Vethushan\Desktop\IT15113214\MovieTicketBooking\MovieTicketBooking\obj\Debug\MovieTicketBooking.pdb
+C:\Users\Vethushan\Desktop\IT15113214\MovieTicketBooking\MovieTicketBooking\obj\Debug\MovieTicketBooking.csprojResolveAssemblyReference.cache
+C:\Users\Vethushan\Desktop\IT15113214\MovieTicketBooking\MovieTicketBooking\obj\Debug\MovieTicketBooking.Migrations.vethu.resources
+C:\Users\Vethushan\Desktop\IT15113214\MovieTicketBooking\MovieTicketBooking\obj\Debug\MovieTicketBooking.Migrations.vethu24.resources
+C:\Users\Vethushan\Desktop\IT15113214\MovieTicketBooking\MovieTicketBooking\obj\Debug\MovieTicketBooking.Migrations.vethu2.resources
+E:\Vethu 3rd year\SPDC\ww.vethu24.com\MovieTicketBooking\MovieTicketBooking\bin\ApplicationInsights.config
+E:\Vethu 3rd year\SPDC\ww.vethu24.com\MovieTicketBooking\MovieTicketBooking\bin\roslyn\csc.exe
+E:\Vethu 3rd year\SPDC\ww.vethu24.com\MovieTicketBooking\MovieTicketBooking\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+E:\Vethu 3rd year\SPDC\ww.vethu24.com\MovieTicketBooking\MovieTicketBooking\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+E:\Vethu 3rd year\SPDC\ww.vethu24.com\MovieTicketBooking\MovieTicketBooking\bin\roslyn\Microsoft.CodeAnalysis.dll
+E:\Vethu 3rd year\SPDC\ww.vethu24.com\MovieTicketBooking\MovieTicketBooking\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+E:\Vethu 3rd year\SPDC\ww.vethu24.com\MovieTicketBooking\MovieTicketBooking\bin\roslyn\Microsoft.CSharp.Core.targets
+E:\Vethu 3rd year\SPDC\ww.vethu24.com\MovieTicketBooking\MovieTicketBooking\bin\roslyn\Microsoft.VisualBasic.Core.targets
+E:\Vethu 3rd year\SPDC\ww.vethu24.com\MovieTicketBooking\MovieTicketBooking\bin\roslyn\System.Collections.Immutable.dll
+E:\Vethu 3rd year\SPDC\ww.vethu24.com\MovieTicketBooking\MovieTicketBooking\bin\roslyn\System.Reflection.Metadata.dll
+E:\Vethu 3rd year\SPDC\ww.vethu24.com\MovieTicketBooking\MovieTicketBooking\bin\roslyn\vbc.exe
+E:\Vethu 3rd year\SPDC\ww.vethu24.com\MovieTicketBooking\MovieTicketBooking\bin\roslyn\VBCSCompiler.exe
+E:\Vethu 3rd year\SPDC\ww.vethu24.com\MovieTicketBooking\MovieTicketBooking\bin\roslyn\VBCSCompiler.exe.config
+E:\Vethu 3rd year\SPDC\ww.vethu24.com\MovieTicketBooking\MovieTicketBooking\bin\MovieTicketBooking.dll.config
+E:\Vethu 3rd year\SPDC\ww.vethu24.com\MovieTicketBooking\MovieTicketBooking\bin\MovieTicketBooking.dll
+E:\Vethu 3rd year\SPDC\ww.vethu24.com\MovieTicketBooking\MovieTicketBooking\bin\MovieTicketBooking.pdb
+E:\Vethu 3rd year\SPDC\ww.vethu24.com\MovieTicketBooking\MovieTicketBooking\bin\Antlr3.Runtime.dll
+E:\Vethu 3rd year\SPDC\ww.vethu24.com\MovieTicketBooking\MovieTicketBooking\bin\EntityFramework.dll
+E:\Vethu 3rd year\SPDC\ww.vethu24.com\MovieTicketBooking\MovieTicketBooking\bin\EntityFramework.SqlServer.dll
+E:\Vethu 3rd year\SPDC\ww.vethu24.com\MovieTicketBooking\MovieTicketBooking\bin\jose-jwt.dll
+E:\Vethu 3rd year\SPDC\ww.vethu24.com\MovieTicketBooking\MovieTicketBooking\bin\Microsoft.AI.Agent.Intercept.dll
+E:\Vethu 3rd year\SPDC\ww.vethu24.com\MovieTicketBooking\MovieTicketBooking\bin\Microsoft.AI.DependencyCollector.dll
+E:\Vethu 3rd year\SPDC\ww.vethu24.com\MovieTicketBooking\MovieTicketBooking\bin\Microsoft.AI.PerfCounterCollector.dll
+E:\Vethu 3rd year\SPDC\ww.vethu24.com\MovieTicketBooking\MovieTicketBooking\bin\Microsoft.AI.ServerTelemetryChannel.dll
+E:\Vethu 3rd year\SPDC\ww.vethu24.com\MovieTicketBooking\MovieTicketBooking\bin\Microsoft.AI.Web.dll
+E:\Vethu 3rd year\SPDC\ww.vethu24.com\MovieTicketBooking\MovieTicketBooking\bin\Microsoft.AI.WindowsServer.dll
+E:\Vethu 3rd year\SPDC\ww.vethu24.com\MovieTicketBooking\MovieTicketBooking\bin\Microsoft.ApplicationInsights.dll
+E:\Vethu 3rd year\SPDC\ww.vethu24.com\MovieTicketBooking\MovieTicketBooking\bin\Microsoft.AspNet.Identity.Core.dll
+E:\Vethu 3rd year\SPDC\ww.vethu24.com\MovieTicketBooking\MovieTicketBooking\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+E:\Vethu 3rd year\SPDC\ww.vethu24.com\MovieTicketBooking\MovieTicketBooking\bin\Microsoft.AspNet.Identity.Owin.dll
+E:\Vethu 3rd year\SPDC\ww.vethu24.com\MovieTicketBooking\MovieTicketBooking\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+E:\Vethu 3rd year\SPDC\ww.vethu24.com\MovieTicketBooking\MovieTicketBooking\bin\Microsoft.Extensions.Configuration.Abstractions.dll
+E:\Vethu 3rd year\SPDC\ww.vethu24.com\MovieTicketBooking\MovieTicketBooking\bin\Microsoft.Extensions.Configuration.dll
+E:\Vethu 3rd year\SPDC\ww.vethu24.com\MovieTicketBooking\MovieTicketBooking\bin\Microsoft.Extensions.Configuration.FileExtensions.dll
+E:\Vethu 3rd year\SPDC\ww.vethu24.com\MovieTicketBooking\MovieTicketBooking\bin\Microsoft.Extensions.Configuration.Json.dll
+E:\Vethu 3rd year\SPDC\ww.vethu24.com\MovieTicketBooking\MovieTicketBooking\bin\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+E:\Vethu 3rd year\SPDC\ww.vethu24.com\MovieTicketBooking\MovieTicketBooking\bin\Microsoft.Extensions.DependencyInjection.dll
+E:\Vethu 3rd year\SPDC\ww.vethu24.com\MovieTicketBooking\MovieTicketBooking\bin\Microsoft.Extensions.FileProviders.Abstractions.dll
+E:\Vethu 3rd year\SPDC\ww.vethu24.com\MovieTicketBooking\MovieTicketBooking\bin\Microsoft.Extensions.FileProviders.Physical.dll
+E:\Vethu 3rd year\SPDC\ww.vethu24.com\MovieTicketBooking\MovieTicketBooking\bin\Microsoft.Extensions.FileSystemGlobbing.dll
+E:\Vethu 3rd year\SPDC\ww.vethu24.com\MovieTicketBooking\MovieTicketBooking\bin\Microsoft.Extensions.Logging.Abstractions.dll
+E:\Vethu 3rd year\SPDC\ww.vethu24.com\MovieTicketBooking\MovieTicketBooking\bin\Microsoft.Extensions.Logging.Console.dll
+E:\Vethu 3rd year\SPDC\ww.vethu24.com\MovieTicketBooking\MovieTicketBooking\bin\Microsoft.Extensions.Logging.dll
+E:\Vethu 3rd year\SPDC\ww.vethu24.com\MovieTicketBooking\MovieTicketBooking\bin\Microsoft.Extensions.Primitives.dll
+E:\Vethu 3rd year\SPDC\ww.vethu24.com\MovieTicketBooking\MovieTicketBooking\bin\Microsoft.Owin.dll
+E:\Vethu 3rd year\SPDC\ww.vethu24.com\MovieTicketBooking\MovieTicketBooking\bin\Microsoft.Owin.Host.SystemWeb.dll
+E:\Vethu 3rd year\SPDC\ww.vethu24.com\MovieTicketBooking\MovieTicketBooking\bin\Microsoft.Owin.Security.Cookies.dll
+E:\Vethu 3rd year\SPDC\ww.vethu24.com\MovieTicketBooking\MovieTicketBooking\bin\Microsoft.Owin.Security.dll
+E:\Vethu 3rd year\SPDC\ww.vethu24.com\MovieTicketBooking\MovieTicketBooking\bin\Microsoft.Owin.Security.Facebook.dll
+E:\Vethu 3rd year\SPDC\ww.vethu24.com\MovieTicketBooking\MovieTicketBooking\bin\Microsoft.Owin.Security.Google.dll
+E:\Vethu 3rd year\SPDC\ww.vethu24.com\MovieTicketBooking\MovieTicketBooking\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+E:\Vethu 3rd year\SPDC\ww.vethu24.com\MovieTicketBooking\MovieTicketBooking\bin\Microsoft.Owin.Security.OAuth.dll
+E:\Vethu 3rd year\SPDC\ww.vethu24.com\MovieTicketBooking\MovieTicketBooking\bin\Microsoft.Owin.Security.Twitter.dll
+E:\Vethu 3rd year\SPDC\ww.vethu24.com\MovieTicketBooking\MovieTicketBooking\bin\Microsoft.Web.Infrastructure.dll
+E:\Vethu 3rd year\SPDC\ww.vethu24.com\MovieTicketBooking\MovieTicketBooking\bin\Newtonsoft.Json.dll
+E:\Vethu 3rd year\SPDC\ww.vethu24.com\MovieTicketBooking\MovieTicketBooking\bin\Nexmo.Api.dll
+E:\Vethu 3rd year\SPDC\ww.vethu24.com\MovieTicketBooking\MovieTicketBooking\bin\Owin.dll
+E:\Vethu 3rd year\SPDC\ww.vethu24.com\MovieTicketBooking\MovieTicketBooking\bin\System.Net.Http.Formatting.dll
+E:\Vethu 3rd year\SPDC\ww.vethu24.com\MovieTicketBooking\MovieTicketBooking\bin\System.Runtime.InteropServices.RuntimeInformation.dll
+E:\Vethu 3rd year\SPDC\ww.vethu24.com\MovieTicketBooking\MovieTicketBooking\bin\System.Web.Helpers.dll
+E:\Vethu 3rd year\SPDC\ww.vethu24.com\MovieTicketBooking\MovieTicketBooking\bin\System.Web.Http.dll
+E:\Vethu 3rd year\SPDC\ww.vethu24.com\MovieTicketBooking\MovieTicketBooking\bin\System.Web.Http.WebHost.dll
+E:\Vethu 3rd year\SPDC\ww.vethu24.com\MovieTicketBooking\MovieTicketBooking\bin\System.Web.Mvc.dll
+E:\Vethu 3rd year\SPDC\ww.vethu24.com\MovieTicketBooking\MovieTicketBooking\bin\System.Web.Optimization.dll
+E:\Vethu 3rd year\SPDC\ww.vethu24.com\MovieTicketBooking\MovieTicketBooking\bin\System.Web.Razor.dll
+E:\Vethu 3rd year\SPDC\ww.vethu24.com\MovieTicketBooking\MovieTicketBooking\bin\System.Web.WebPages.Deployment.dll
+E:\Vethu 3rd year\SPDC\ww.vethu24.com\MovieTicketBooking\MovieTicketBooking\bin\System.Web.WebPages.dll
+E:\Vethu 3rd year\SPDC\ww.vethu24.com\MovieTicketBooking\MovieTicketBooking\bin\System.Web.WebPages.Razor.dll
+E:\Vethu 3rd year\SPDC\ww.vethu24.com\MovieTicketBooking\MovieTicketBooking\bin\WebGrease.dll
+E:\Vethu 3rd year\SPDC\ww.vethu24.com\MovieTicketBooking\MovieTicketBooking\bin\Microsoft.AI.DependencyCollector.xml
+E:\Vethu 3rd year\SPDC\ww.vethu24.com\MovieTicketBooking\MovieTicketBooking\bin\Microsoft.AI.ServerTelemetryChannel.xml
+E:\Vethu 3rd year\SPDC\ww.vethu24.com\MovieTicketBooking\MovieTicketBooking\bin\Microsoft.AI.Web.xml
+E:\Vethu 3rd year\SPDC\ww.vethu24.com\MovieTicketBooking\MovieTicketBooking\bin\Microsoft.AI.WindowsServer.xml
+E:\Vethu 3rd year\SPDC\ww.vethu24.com\MovieTicketBooking\MovieTicketBooking\bin\Microsoft.ApplicationInsights.xml
+E:\Vethu 3rd year\SPDC\ww.vethu24.com\MovieTicketBooking\MovieTicketBooking\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+E:\Vethu 3rd year\SPDC\ww.vethu24.com\MovieTicketBooking\MovieTicketBooking\bin\Microsoft.Extensions.Configuration.xml
+E:\Vethu 3rd year\SPDC\ww.vethu24.com\MovieTicketBooking\MovieTicketBooking\bin\Microsoft.Extensions.Configuration.Abstractions.xml
+E:\Vethu 3rd year\SPDC\ww.vethu24.com\MovieTicketBooking\MovieTicketBooking\bin\Microsoft.Extensions.Configuration.FileExtensions.xml
+E:\Vethu 3rd year\SPDC\ww.vethu24.com\MovieTicketBooking\MovieTicketBooking\bin\Microsoft.Extensions.Configuration.Json.xml
+E:\Vethu 3rd year\SPDC\ww.vethu24.com\MovieTicketBooking\MovieTicketBooking\bin\Microsoft.Extensions.DependencyInjection.xml
+E:\Vethu 3rd year\SPDC\ww.vethu24.com\MovieTicketBooking\MovieTicketBooking\bin\Microsoft.Extensions.DependencyInjection.Abstractions.xml
+E:\Vethu 3rd year\SPDC\ww.vethu24.com\MovieTicketBooking\MovieTicketBooking\bin\Microsoft.Extensions.FileProviders.Abstractions.xml
+E:\Vethu 3rd year\SPDC\ww.vethu24.com\MovieTicketBooking\MovieTicketBooking\bin\Microsoft.Extensions.FileProviders.Physical.xml
+E:\Vethu 3rd year\SPDC\ww.vethu24.com\MovieTicketBooking\MovieTicketBooking\bin\Microsoft.Extensions.FileSystemGlobbing.xml
+E:\Vethu 3rd year\SPDC\ww.vethu24.com\MovieTicketBooking\MovieTicketBooking\bin\Microsoft.Extensions.Logging.xml
+E:\Vethu 3rd year\SPDC\ww.vethu24.com\MovieTicketBooking\MovieTicketBooking\bin\Microsoft.Extensions.Logging.Abstractions.xml
+E:\Vethu 3rd year\SPDC\ww.vethu24.com\MovieTicketBooking\MovieTicketBooking\bin\Microsoft.Extensions.Logging.Console.xml
+E:\Vethu 3rd year\SPDC\ww.vethu24.com\MovieTicketBooking\MovieTicketBooking\bin\Microsoft.Extensions.Primitives.xml
+E:\Vethu 3rd year\SPDC\ww.vethu24.com\MovieTicketBooking\MovieTicketBooking\bin\Newtonsoft.Json.xml
+E:\Vethu 3rd year\SPDC\ww.vethu24.com\MovieTicketBooking\MovieTicketBooking\bin\System.Web.Helpers.xml
+E:\Vethu 3rd year\SPDC\ww.vethu24.com\MovieTicketBooking\MovieTicketBooking\bin\System.Web.Mvc.xml
+E:\Vethu 3rd year\SPDC\ww.vethu24.com\MovieTicketBooking\MovieTicketBooking\bin\System.Web.Optimization.xml
+E:\Vethu 3rd year\SPDC\ww.vethu24.com\MovieTicketBooking\MovieTicketBooking\bin\System.Web.Razor.xml
+E:\Vethu 3rd year\SPDC\ww.vethu24.com\MovieTicketBooking\MovieTicketBooking\bin\System.Web.WebPages.xml
+E:\Vethu 3rd year\SPDC\ww.vethu24.com\MovieTicketBooking\MovieTicketBooking\bin\System.Web.WebPages.Deployment.xml
+E:\Vethu 3rd year\SPDC\ww.vethu24.com\MovieTicketBooking\MovieTicketBooking\bin\System.Web.WebPages.Razor.xml
+E:\Vethu 3rd year\SPDC\ww.vethu24.com\MovieTicketBooking\MovieTicketBooking\bin\Antlr3.Runtime.pdb
+E:\Vethu 3rd year\SPDC\ww.vethu24.com\MovieTicketBooking\MovieTicketBooking\bin\System.Net.Http.Formatting.xml
+E:\Vethu 3rd year\SPDC\ww.vethu24.com\MovieTicketBooking\MovieTicketBooking\bin\System.Web.Http.xml
+E:\Vethu 3rd year\SPDC\ww.vethu24.com\MovieTicketBooking\MovieTicketBooking\bin\System.Web.Http.WebHost.xml
+E:\Vethu 3rd year\SPDC\ww.vethu24.com\MovieTicketBooking\MovieTicketBooking\bin\EntityFramework.xml
+E:\Vethu 3rd year\SPDC\ww.vethu24.com\MovieTicketBooking\MovieTicketBooking\bin\EntityFramework.SqlServer.xml
+E:\Vethu 3rd year\SPDC\ww.vethu24.com\MovieTicketBooking\MovieTicketBooking\bin\Microsoft.AspNet.Identity.Core.xml
+E:\Vethu 3rd year\SPDC\ww.vethu24.com\MovieTicketBooking\MovieTicketBooking\bin\Microsoft.AspNet.Identity.Owin.xml
+E:\Vethu 3rd year\SPDC\ww.vethu24.com\MovieTicketBooking\MovieTicketBooking\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+E:\Vethu 3rd year\SPDC\ww.vethu24.com\MovieTicketBooking\MovieTicketBooking\bin\Microsoft.Owin.xml
+E:\Vethu 3rd year\SPDC\ww.vethu24.com\MovieTicketBooking\MovieTicketBooking\bin\Microsoft.Owin.Host.SystemWeb.xml
+E:\Vethu 3rd year\SPDC\ww.vethu24.com\MovieTicketBooking\MovieTicketBooking\bin\Microsoft.Owin.Security.xml
+E:\Vethu 3rd year\SPDC\ww.vethu24.com\MovieTicketBooking\MovieTicketBooking\bin\Microsoft.Owin.Security.Facebook.xml
+E:\Vethu 3rd year\SPDC\ww.vethu24.com\MovieTicketBooking\MovieTicketBooking\bin\Microsoft.Owin.Security.Cookies.xml
+E:\Vethu 3rd year\SPDC\ww.vethu24.com\MovieTicketBooking\MovieTicketBooking\bin\Microsoft.Owin.Security.OAuth.xml
+E:\Vethu 3rd year\SPDC\ww.vethu24.com\MovieTicketBooking\MovieTicketBooking\bin\Microsoft.Owin.Security.Google.xml
+E:\Vethu 3rd year\SPDC\ww.vethu24.com\MovieTicketBooking\MovieTicketBooking\bin\Microsoft.Owin.Security.Twitter.xml
+E:\Vethu 3rd year\SPDC\ww.vethu24.com\MovieTicketBooking\MovieTicketBooking\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+E:\Vethu 3rd year\SPDC\ww.vethu24.com\MovieTicketBooking\MovieTicketBooking\obj\Debug\MovieTicketBooking.csprojResolveAssemblyReference.cache
+E:\Vethu 3rd year\SPDC\ww.vethu24.com\MovieTicketBooking\MovieTicketBooking\obj\Debug\MovieTicketBooking.Migrations.InitialCreate.resources
+E:\Vethu 3rd year\SPDC\ww.vethu24.com\MovieTicketBooking\MovieTicketBooking\obj\Debug\MovieTicketBooking.Migrations.vethu.resources
+E:\Vethu 3rd year\SPDC\ww.vethu24.com\MovieTicketBooking\MovieTicketBooking\obj\Debug\MovieTicketBooking.Migrations.vethu24.resources
+E:\Vethu 3rd year\SPDC\ww.vethu24.com\MovieTicketBooking\MovieTicketBooking\obj\Debug\MovieTicketBooking.Migrations.vethu2.resources
+E:\Vethu 3rd year\SPDC\ww.vethu24.com\MovieTicketBooking\MovieTicketBooking\obj\Debug\MovieTicketBooking.csproj.GenerateResource.Cache
+E:\Vethu 3rd year\SPDC\ww.vethu24.com\MovieTicketBooking\MovieTicketBooking\obj\Debug\MovieTicketBooking.dll
+E:\Vethu 3rd year\SPDC\ww.vethu24.com\MovieTicketBooking\MovieTicketBooking\obj\Debug\MovieTicketBooking.pdb
